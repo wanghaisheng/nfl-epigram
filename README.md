@@ -42,6 +42,7 @@ Our goal is to use AI to make quality news easy to access, understand, and perso
 ## 🛠️ Tech Stack
 
 - [Next.js](https://nextjs.org/) - React framework for production
+-  news crawler https://github.com/wanghaisheng/nfl-new-crawler
 - [Exa](https://exa.ai/) - AI-powered news summaries
 - [Google Cloud Run](https://cloud.google.com/run) - Serverless deployment
 - [AI SDK](https://sdk.vercel.ai/docs) & [OpenAI](https://openai.com/) - AI analysis with `gpt-4o-mini`
